@@ -48,7 +48,7 @@ class FileExplorer {
           }
         }
       },
-      { rootMargin: '100px' },
+      { rootMargin: '120px' },
     )
   }
 
